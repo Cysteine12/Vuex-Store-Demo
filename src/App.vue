@@ -1,6 +1,8 @@
 <template>
   <div id="container">
     <Box></Box>
+    <Box></Box>
+    <Box></Box>
   </div>
 </template>
 
