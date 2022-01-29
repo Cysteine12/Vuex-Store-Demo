@@ -4,7 +4,7 @@
       <Card></Card>
     </div>
     <div class="card-plus">
-      <img class="svg-plus" src="../assets/plus.svg" alt="" />
+      <img class="svg-plus" src="/../assets/plus.svg" alt="" />
     </div>
   </div>
 </template>
