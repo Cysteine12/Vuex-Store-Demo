@@ -4,7 +4,7 @@
       <Card></Card>
     </div>
     <div class="card-plus">
-      <img class="svg-plus" src="plus.svg" alt="" />
+      <img class="svg-plus" src="./assets/plus.svg" alt="" />
     </div>
   </div>
 </template>
@@ -14,7 +14,7 @@ import Card from './components/Card'
 export default {
   name: 'Box',
   props: {
-    msg: String
+    //msg: String
   },
   components: {
     Card
