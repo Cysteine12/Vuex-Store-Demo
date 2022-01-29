@@ -1,6 +1,6 @@
 <template>
   <div class="card">
-    <img class="svg-arrow" src="../components/arrow.svg" alt="" />
+    <img class="svg-arrow" src="../assets/arrow.svg" alt="" />
   </div>
 </template>
 
